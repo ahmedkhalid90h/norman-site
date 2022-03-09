@@ -1,0 +1,34 @@
+body{
+    background-color:#eee;
+  }
+  .section1{
+    background-color:#eee;
+  }
+  #main{
+      padding:20px;
+      text-align:center;
+  }
+  #title{
+    font-size:30px;
+    font-weight:bold;
+  }
+  .section2{
+    background-color:white;
+  }
+  .div{
+      display: flex;
+      align-items: center;
+      flex-direction: column;
+  }
+  .div{
+    display:flex;
+    aling-items:center;
+    flex-direction:column;
+  }
+  .div ul li{
+    width:600px;
+    line-height:30px ;
+  }
+  .div p{
+    width:500px;
+  }
